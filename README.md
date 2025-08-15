@@ -4,7 +4,9 @@
 
 + pandas 1.5.3
 + numpy 1.26.4
-+ numba 0.55.2
++ sklearn:  1.7.1
++ numba 0.61.2
++ ismember 1.1.0
 + tensorflow >=2.7.0
 + keras >=2.7.0
 + RAM 16GB or more
